@@ -1,0 +1,103 @@
+body {
+    font-size: 1rem;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    color: #2b283a;
+}
+
+h3 {
+    color: #d0aaff;
+    font-size: 1.25rem;
+}
+
+h2 {
+    margin-top: 0px;
+}
+
+.bootPic {
+    width: 100%;
+}
+
+a#anchor_link {
+    color: #ef5839;
+    text-decoration: underline dotted; 
+}
+
+a#anchor_link:hover, a#anchor_link:active{
+    color: #d4b44c;
+}
+
+.containerA {
+    width: 620px;
+    margin: 0px auto;
+}
+
+.images_S2 {
+    width: 300px;
+    border-radius: 4.6px;
+}
+
+.img_Container {
+    display: flex;
+    justify-content: space-between;
+}
+
+footer {
+    color: #5f29a3;
+}
+
+p {
+    line-height: 23px;
+}
+
+.buyNFT {
+    color: whitesmoke;
+    background-color: #5f29a3;
+}
+
+.moreInf {
+    background-color: #f0e0ff;
+}
+
+
+/* ----------------------------Group Section-------------------------------------------- */
+
+h1, .s2 {
+    color: whitesmoke;
+}
+
+body, h1, h3 {
+    margin: 0px;
+}
+
+header, .s2 {
+    background-color: #5f29a3;
+}
+
+header, footer, section {
+    padding: 45px 0px;
+}
+
+header, footer {
+    text-align: center;
+}
+
+.btn {
+    padding: 10px 19px;
+    border-radius: 4.6px;
+    font-weight: bold;
+    text-decoration: none;
+    display: inline-block; 
+}
+
+.moreInf, .aUs_con {
+    color: #5f29a3;
+}
+
+.aUs_con {
+    background-color: whitesmoke;
+}
+
+.btn:hover, .btn:active {
+    color: #2b283a;
+    background-color: #f3e885;
+}
